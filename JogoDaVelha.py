@@ -92,4 +92,4 @@ jogo = JogoDaVela()
 
 jogo.jogar()
 
-print("hhhh")
+print("")
